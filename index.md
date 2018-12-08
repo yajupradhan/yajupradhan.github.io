@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: ''
+  - link: "/"
     link_text: Works
   logo: "/uploads/2018/12/08/logo_long-1.png"
 - template: content-feature
