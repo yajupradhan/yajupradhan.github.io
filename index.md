@@ -3,28 +3,21 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+- template: navigation-header
+  block: header-1
   navigation:
-  - link: "/"
+  - link: "/home"
     link_text: Home
-  - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Pricing
-  - link: "#"
-    link_text: Team
-  cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+  - link: ''
+    link_text: Works
+  logo: "/uploads/2018/12/08/logo_long-1.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: <span class="light">More </span><strong><span class="light">coming up</span></strong><span
+    class="light"> soon. </span>
+  content: To be nobody-but-yourself — in a world which is doing its best, night and
+    day, to make you everybody else.<br><br>- brainpickings
   media:
     image: "/uploads/2018/12/08/image.svg"
     alt_text: Customize Blocks
