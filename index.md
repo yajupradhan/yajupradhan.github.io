@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
   content: Each block comes with custom Front Matter that can easily be edited in
